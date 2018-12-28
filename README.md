@@ -1,4 +1,4 @@
-# Image-Augmentation
+# Image-Augmentation-Python
 This repo is a collection of image augmentation scripts written in Python. Types of augmentations are horizontal flip, vertical segmentation, and 9-parts image segmentation. This repo also includes scripts to augment XML files based on the PascalVOC standard.
 
 1. Horizontal_flip.py
